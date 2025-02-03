@@ -12,13 +12,13 @@ Tinkercad can be used in IoT to design and prototype a wide range of connected d
 
 ✪ Arduino IDE : https://www.arduino.cc/en/software
 
-## ✪ Discription of Components :
+## ✪ Description of Components :
 
 ### Arduino Uno :  
 
 ![arduino](https://user-images.githubusercontent.com/96485370/236083852-df4a2ec4-0365-4751-86a2-b6d884ab65b0.png)
 
-### Aduiuno Documentation
+### Arduino Documentation
 
 [Arduino - Quick Guide.pdf](https://github.com/harsh9104/IOT-basics-workshop/files/11302771/Arduino.-.Quick.Guide.pdf)
 
@@ -136,7 +136,7 @@ An LCD 16x2 display is a type of alphanumeric display that consists of 16 column
 
 ## A. LED
 
-### 1. LED Bilnk
+### 1. LED Blink
 
 ![Led Blink Schematic view](https://user-images.githubusercontent.com/96485370/236088530-7879c61f-ad54-4ddf-9768-8b36005229fe.png)
 
